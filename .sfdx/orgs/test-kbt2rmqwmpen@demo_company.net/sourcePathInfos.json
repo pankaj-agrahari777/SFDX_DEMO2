@@ -1,0 +1,947 @@
+[
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610063,
+            "changeTime": 1502982610063,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610075,
+            "changeTime": 1502982610075,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610485,
+            "changeTime": 1502982610485,
+            "contentHash": "c10276c48e7d0552370b8954d912d5be88b49dd7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610093,
+            "changeTime": 1502982610093,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11344,
+            "modifiedTime": 1502982610094,
+            "changeTime": 1502982610094,
+            "contentHash": "56a764800d50cbee2bc46f7990b0fb6269e20e81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610102,
+            "changeTime": 1502982610102,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610471,
+            "changeTime": 1502982610471,
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3828,
+            "modifiedTime": 1502982610118,
+            "changeTime": 1502982610118,
+            "contentHash": "13fe8a604bee93eb8e5db69e10ae5c06ed7ccf69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610402,
+            "changeTime": 1502982610402,
+            "contentHash": "5bd76c6ece7e1fb81260c26b0abaaff7750a68cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1502982610129,
+            "changeTime": 1502982610129,
+            "contentHash": "3c124b31608f563ada6bd99255726d46083db218",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1502982610135,
+            "changeTime": 1502982610135,
+            "contentHash": "384a972462fde81e73175117ecdc791f0f447eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 779,
+            "modifiedTime": 1502982610141,
+            "changeTime": 1502982610141,
+            "contentHash": "862d933a1ce8d08977214bcab53a22a93b789a3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1502982610150,
+            "changeTime": 1502982610150,
+            "contentHash": "555ee7bd88d189b9ef381e5f732e92c7f66516b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1502982610164,
+            "changeTime": 1502982610164,
+            "contentHash": "17f39d3667425e543c3f25231fd397a70b4c3b9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1502982610167,
+            "changeTime": 1502982610167,
+            "contentHash": "001688fc7aaae107da1e30b7d98dc9481c618d58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1502982610174,
+            "changeTime": 1502982610174,
+            "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 973,
+            "modifiedTime": 1502982610180,
+            "changeTime": 1502982610180,
+            "contentHash": "3d837c6442bd1bd811ea52cffd91924bf452ac53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1502982610189,
+            "changeTime": 1502982610189,
+            "contentHash": "70b0e8552bc33c67620059d19329d520a97ac4c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1502982610200,
+            "changeTime": 1502982610200,
+            "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1502982610207,
+            "changeTime": 1502982610207,
+            "contentHash": "ff7e7e4ced2ce57ee28410bc5d863342fb92fcdd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1502982610213,
+            "changeTime": 1502982610213,
+            "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1502982610219,
+            "changeTime": 1502982610219,
+            "contentHash": "9384f2c13a43a79de2909dc183d92bd6ca481311",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1502982610221,
+            "changeTime": 1502982610221,
+            "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1502982610227,
+            "changeTime": 1502982610227,
+            "contentHash": "7b674436fe553847f95a95be57b3e6303533c62d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1502982610240,
+            "changeTime": 1502982610240,
+            "contentHash": "8e69fc58b200cdbdbff3aead1334d5f8b5c822c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1502982610250,
+            "changeTime": 1502982610250,
+            "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1502982610257,
+            "changeTime": 1502982610257,
+            "contentHash": "4967174bc7f968f24453f9b77a016534700b378f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1502982610262,
+            "changeTime": 1502982610262,
+            "contentHash": "03a312d8d72eead51a03cde9ea44d25b5818f2ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1502982610273,
+            "changeTime": 1502982610273,
+            "contentHash": "d2112777e8212058f308b2c21858daade2a69848",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1502982610277,
+            "changeTime": 1502982610277,
+            "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1502982610283,
+            "changeTime": 1502982610283,
+            "contentHash": "dfad41aedec815c5c3dae8f8b8e0c6b5722420b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1502982610289,
+            "changeTime": 1502982610289,
+            "contentHash": "e34e032532c659aa07e7426065371878014e059c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1502982610295,
+            "changeTime": 1502982610295,
+            "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1502982610298,
+            "changeTime": 1502982610298,
+            "contentHash": "2a8a36584fa7d932be50778cf559524c9863e381",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1502982610338,
+            "changeTime": 1502982610338,
+            "contentHash": "ebd283f5e30908caead295aa176669c149556ebe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1502982610340,
+            "changeTime": 1502982610340,
+            "contentHash": "e4b36658d95bae01e002509243463bdd5ae80aa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1502982610346,
+            "changeTime": 1502982610346,
+            "contentHash": "0e581720754872ad2e92c90974c4788885d6ff97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1502982610356,
+            "changeTime": 1502982610356,
+            "contentHash": "7771715ac34684248bb8bad4005b8b08dadd1d34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 345,
+            "modifiedTime": 1502982610303,
+            "changeTime": 1502982610303,
+            "contentHash": "27c7165d232bc5193f51d0736cfc20ffbe4f905c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1502982610311,
+            "changeTime": 1502982610311,
+            "contentHash": "7e4f01b050085f7aa1dbdb463e8646c9356f522a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1125,
+            "modifiedTime": 1502982610331,
+            "changeTime": 1502982610331,
+            "contentHash": "3475059515890ad12201c280a772ccadd809f057",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TestField2__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TestField2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1502982610363,
+            "changeTime": 1502982610363,
+            "contentHash": "40f02e1225ae84d73b7d63cd060d96022a8d2ea3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TestField__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TestField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1502982610369,
+            "changeTime": 1502982610369,
+            "contentHash": "18c166d7bbf1936ee14b508622e723e7996c8eed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1502982610374,
+            "changeTime": 1502982610374,
+            "contentHash": "ba538aa4c66d16bbacefa53625bf602af4e668e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1502982610380,
+            "changeTime": 1502982610380,
+            "contentHash": "452910fd0cb411b693b016a50ba9b45a033a1432",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1502982610383,
+            "changeTime": 1502982610383,
+            "contentHash": "e593e0cf897ea2062937ca32f4e05d3b0a9ab456",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 969,
+            "modifiedTime": 1502982610385,
+            "changeTime": 1502982610385,
+            "contentHash": "5926c17c5326e31972e39ca33007ac61e5d39d3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1502982610391,
+            "changeTime": 1502982610391,
+            "contentHash": "f1e64cc04ff71ec18a27ca56b85d13c54725a904",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1502982610403,
+            "changeTime": 1502982610403,
+            "contentHash": "17f1096442afb38477aaf2c160a11b9c64148b13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610469,
+            "changeTime": 1502982610469,
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1502982610445,
+            "changeTime": 1502982610445,
+            "contentHash": "57e7ec47491b36816be1b3400ddf513a814077f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1502982610454,
+            "changeTime": 1502982610454,
+            "contentHash": "78d3715119f132e412e29029a4296be4e6161bd0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1502982610456,
+            "changeTime": 1502982610456,
+            "contentHash": "44ef57f9eec2ed31f18c04ae94c70f7e878ec9a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1502982610463,
+            "changeTime": 1502982610463,
+            "contentHash": "c6abe694ad53fad100dce99bae29bf624a21e96c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1502982610470,
+            "changeTime": 1502982610470,
+            "contentHash": "efe753ae1e52d3dfe01893f0dd12670dc4148f33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\webLinks",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\webLinks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610479,
+            "changeTime": 1502982610479,
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 767,
+            "modifiedTime": 1502982610481,
+            "changeTime": 1502982610481,
+            "contentHash": "d22d8a8cf3fac60831a7ab8a430469f15b0cd232",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610522,
+            "changeTime": 1502982610522,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23796,
+            "modifiedTime": 1502982610503,
+            "changeTime": 1502982610503,
+            "contentHash": "470568ec5c6cb9765b84d17820fb650ab62981ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10682,
+            "modifiedTime": 1502982610511,
+            "changeTime": 1502982610511,
+            "contentHash": "0c05a56207853cac08d551e60da7723a5c99a2dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10682,
+            "modifiedTime": 1502982610513,
+            "changeTime": 1502982610513,
+            "contentHash": "0c05a56207853cac08d551e60da7723a5c99a2dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11032,
+            "modifiedTime": 1502982610523,
+            "changeTime": 1502982610523,
+            "contentHash": "67c0a573334937c39064f4778f857ffd826df12e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\Demo2\\SFDX_DEMO2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502982610525,
+            "changeTime": 1502982610525,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
